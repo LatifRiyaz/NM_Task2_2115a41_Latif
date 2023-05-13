@@ -1,3 +1,4 @@
+const port = process.env.PORT || 3001;
 const close = document.querySelector("close");
 const open = document.querySelector("ham");
 const menu = document.querySelector("menu");
